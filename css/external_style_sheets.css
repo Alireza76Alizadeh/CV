@@ -1,0 +1,46 @@
+/* ----------------------------    TAG STYLES    ---------------------------- */
+h1,
+h2,
+p,
+div,
+hr {
+  margin: 0;
+  padding: 5;
+}
+/* ----------------------------   CLASS STYLES   ---------------------------- */
+
+.odd-divisions {
+  background-color: #eaeaea;
+  white-space: 0;
+}
+.even-divisions {
+  background-color: #08d9d6;
+  white-space: 0;
+}
+.down-divisions {
+  background-color: #ff2e63;
+  white-space: 0;
+}
+.title-link {
+  color: #252a34;
+}
+
+/* ----------------------------    ID STYLES     ---------------------------- */
+
+/* ----------------------------  STATES STYLES   ---------------------------- */
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
